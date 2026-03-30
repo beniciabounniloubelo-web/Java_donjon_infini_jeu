@@ -4,4 +4,4 @@ Jeu d'exploration de donjon sur une grille 3×3 avec gestion de combats, armes, 
 **Contenu :** déplacements · système de combat · extensions personnalisées · interface graphique  
 **Stack :** Java · Swing
 
-> Projet académique — BUT Informatique
+> Projet académique — BUT Informatique (⚠️ code a compléter)
